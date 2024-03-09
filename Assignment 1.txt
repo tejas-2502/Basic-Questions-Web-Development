@@ -1,0 +1,20 @@
+Basic Questions Web Development
+1.What is HTML?
+HTML stands for Hyper Text Markup Language. HTML is the standard markup language for
+creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of
+elements. HTML elements tell the browser how to display the content.
+2.What is CSS?
+CSS is a computer language for laying out and structuring web pages (HTML or XML)
+3.What is the difference between front-end and back-end development?
+The frontend is what your users see and includes visual elements like buttons, checkboxes,
+graphics, and text messages. It allows your users to interact with your application.
+The backend is the data and infrastructure that make your application work. It stores and
+processes application data for your users.
+4.What is JavaScript?
+JavaScript is a scripting language used to create and control dynamic website content, i.e.
+anything that moves, refreshes, or otherwise changes on your screen without requiring you to
+manually reload a web page.
+5.What is a responsive web design?
+Responsive web design (RWD) refers to designing websites to adapt to a user's device. The goal
+is for a website to retain its optimal usability and appearance regardless of the device it's
+displayed on.
